@@ -1,0 +1,27 @@
+{
+  "name": "unom-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "module":"es/index.js",
+
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "unom-ui",
+    "Vue3",
+    "Component",
+    "unocss"
+  ],
+  "author": "qixiao",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "@unom-ui/utils": "workspace:^1.0.0"
+  }
+}
