@@ -6,7 +6,8 @@
   "module":"es/index.js",
 
   "scripts": {
-    "build": "vite build"
+    "build": "vite build",
+    "build:scss": "esno build/buildScss"
   },
   "files": [
     "es",

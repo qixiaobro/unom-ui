@@ -2,8 +2,8 @@
 
 <template>
   <div>
-    <button>测试按钮</button>
+    <button class="btn">测试按钮</button>
   </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" src="./style.scss" scoped />
